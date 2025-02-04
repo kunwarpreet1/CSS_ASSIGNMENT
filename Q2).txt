@@ -1,0 +1,9 @@
+Q2. Explain the difference between absolute and relative positions.
+
+Ans.Absolute Positioning -> in absolute positioning the element whose position is 
+declared as absolute is placed relative to its nearest positioned ancestor, 
+if there does not exist any positioned ancestor then it positions itself according to 
+the <html> or <body> element. the position of other elements around it also get repositioned.
+Relative Positioning -> in relative positioning the element whose position is declared as 
+relative is placed relative to its normal position in the document flow. other elements around
+it does not change its position.

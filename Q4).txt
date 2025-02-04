@@ -1,0 +1,7 @@
+Q4)How are inline and block elements different from each other?
+Ans) - Inline Elements -> Inline Elements are those HTML elements that occupy 
+space according to the amount of text entered inside these tags. ex -> <span>, <a>
+
+Block Elements -> Bloack Elements are those elements that take up width of 
+the whole document irrespective of the amount of content entered inside these elements.
+Ex -> <div> , <p>

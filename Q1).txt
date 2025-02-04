@@ -1,0 +1,3 @@
+Q1. What is the use of float property? Which property is the better alternative to it?
+
+Ans.Float property in CSS is used for creating layouts in the webpage. Though, float is not an optimsed way to create layouts but still it is used in some use cases. with the help of float we can place two or more containers side by side.if we have two containers one container containing image and other container having some text, if we apply float property to the image then the text is placed in such a way that the text wraps the image. Same functionality can also be achieved using clear property. a better alternative for float and clear is using flexbox for layout purposes.
